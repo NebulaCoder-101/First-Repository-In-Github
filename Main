@@ -1,0 +1,9 @@
+#4 / 17 / 26
+#Expirements with python language
+
+for i in range(10):
+    print(i+1)
+    
+List = ['a', 'b', 'c']
+print(List[0])
+
